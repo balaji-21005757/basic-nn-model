@@ -6,11 +6,13 @@ To develop a neural network regression model for the given dataset.
 
 ## THEORY
 
-Explain the problem statement
+A neural network is a computer program inspired by how our brains work. It's used to solve problems by finding patterns in data. Imagine a network of interconnected virtual "neurons." Each neuron takes in information, processes it, and passes it along.
+
+The scope of the project includes data preprocessing, training, and evaluation of the neural network. However, it's important to acknowledge potential limitations, such as computational resources and constraints on model complexity.Performance evaluation will be carried out using appropriate regression metrics such as Mean Squared Error (MSE), Root Mean Squared Error (RMSE), or R-squared value. This will allow us to quantitatively measure the accuracy of the model's predictions against actual target values.
 
 ## Neural Network Model
+![image](https://github.com/balaji-21005757/basic-nn-model/assets/94372294/0f57244e-8594-42b7-9740-7c13f654567c)
 
-Include the neural network model diagram.
 
 ## DESIGN STEPS
 
@@ -119,21 +121,24 @@ x_n_n = scaler.transform(x_n1)
 my_model.predict(x_n_n)
 ```
 ## Dataset Information
-
-Include screenshot of the dataset
+![image](https://github.com/balaji-21005757/basic-nn-model/assets/94372294/43f4b99f-d475-4489-b84a-d698f10017b5)
 
 ## OUTPUT
 
 ### Training Loss Vs Iteration Plot
 
-Include your plot here
+![image](https://github.com/balaji-21005757/basic-nn-model/assets/94372294/0231571c-dacb-4e58-824a-cd6de617663a)
+
 
 ### Test Data Root Mean Squared Error
 
-Find the test data root mean squared error
+![image](https://github.com/balaji-21005757/basic-nn-model/assets/94372294/58fcd4db-8d09-4ac6-b46c-907188ddd73f)
+
 
 ### New Sample Data Prediction
 
-Include your sample input and output here
+![image](https://github.com/balaji-21005757/basic-nn-model/assets/94372294/d1c8e875-d3a1-4230-81c9-37ef6abd1e04)
+
 
 ## RESULT
+Thus to develop a neural network regression model for the dataset created is successfully executed.
