@@ -132,12 +132,13 @@ my_model.predict(x_n_n)
 
 ### Test Data Root Mean Squared Error
 
-![image](https://github.com/balaji-21005757/basic-nn-model/assets/94372294/58fcd4db-8d09-4ac6-b46c-907188ddd73f)
+![image](https://github.com/balaji-21005757/basic-nn-model/assets/94372294/330d7e0e-82c9-414c-96bc-0e539a65fe4f)
 
 
 ### New Sample Data Prediction
 
-![image](https://github.com/balaji-21005757/basic-nn-model/assets/94372294/d1c8e875-d3a1-4230-81c9-37ef6abd1e04)
+![image](https://github.com/balaji-21005757/basic-nn-model/assets/94372294/1c125dab-8ad1-4891-92e5-de64509ad95d)
+
 
 
 ## RESULT
